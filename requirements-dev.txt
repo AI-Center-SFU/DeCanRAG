@@ -1,0 +1,9 @@
+langchain
+langchain-community
+faiss-cpu 
+openai
+sentence-transformers
+bert-score
+nltk
+pandas
+openpyxl
