@@ -43,9 +43,7 @@ class RAGSystem:
             openai_api_base=openai_api_base,
             openai_api_key=openai_api_key,
             model_name=model_name,
-            best_of=3,
             temperature=0.3,
-
         )
         # Сохраняем шаблон как атрибут
         self.prompt_template = prompt_template
